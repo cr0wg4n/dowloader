@@ -1,0 +1,9 @@
+C:\Users\Mauricio\source\repos\down\downloader2.0\bin\Debug\downloader2.0.exe
+C:\Users\Mauricio\source\repos\down\downloader2.0\bin\Debug\downloader2.0.pdb
+C:\Users\Mauricio\source\repos\down\downloader2.0\obj\Debug\downloader2.0.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\source\repos\down\downloader2.0\obj\Debug\downloader2._0.Form1.resources
+C:\Users\Mauricio\source\repos\down\downloader2.0\obj\Debug\downloader2._0.Properties.Resources.resources
+C:\Users\Mauricio\source\repos\down\downloader2.0\obj\Debug\downloader2.0.csproj.GenerateResource.cache
+C:\Users\Mauricio\source\repos\down\downloader2.0\obj\Debug\downloader2.0.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\down\downloader2.0\obj\Debug\downloader2.0.exe
+C:\Users\Mauricio\source\repos\down\downloader2.0\obj\Debug\downloader2.0.pdb
